@@ -1,0 +1,17 @@
+
+
+ p {   color: purple;
+  }
+
+  span{
+
+    color: brown;
+  }
+
+  ul{
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+    
+
+  }
